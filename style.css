@@ -1,3 +1,6 @@
+/*Coded and designed by https://github.com/lijnati */
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
@@ -15,6 +18,7 @@ body {
   background: #3468DB;
 }
  
+
 .wrapper {
   height: 260px;
   background: #fff;
